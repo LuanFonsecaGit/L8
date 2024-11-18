@@ -1,4 +1,5 @@
 modname="GIT"
+user=modname;
 onLoad=function(){
-  print("e")
+  uprint("e")
 }
